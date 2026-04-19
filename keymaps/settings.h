@@ -22,7 +22,7 @@
 // Uncomment one of the following lines if using a non-Windows host:
 
 // #define MACOS
-// #define LINUX
+#define LINUX
 
 // [Experimental]
 // Uncomment one of the following lines to enable layout emulation:
